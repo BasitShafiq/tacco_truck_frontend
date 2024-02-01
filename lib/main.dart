@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: Colors.grey,
+        primaryColor: Colors.white,
         splashColor: Colors.grey,
 
         // colorScheme: ColorScheme.fromSeed(seedColor: Colors.grey),
