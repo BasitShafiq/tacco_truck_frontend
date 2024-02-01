@@ -1,4 +1,4 @@
-# tacco_truck_frontend
+# taco
 
 A new Flutter project.
 

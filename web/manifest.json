@@ -1,6 +1,6 @@
 {
-    "name": "tacco_truck_frontend",
-    "short_name": "tacco_truck_frontend",
+    "name": "taco",
+    "short_name": "taco",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

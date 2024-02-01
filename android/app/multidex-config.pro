@@ -1,0 +1,4 @@
+-keep class com.google.android.gms.** { *; }
+-dontwarn com.google.android.gms.**
+-keep class io.flutter.** { *; }
+-dontwarn io.flutter.**
